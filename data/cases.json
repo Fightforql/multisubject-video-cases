@@ -1,0 +1,1260 @@
+{
+  "case_count": 25,
+  "reference_image_count": 82,
+  "review_scope": "Per-primary reference image correspondence to the original action video; not a claim of completed proxy or H3 generation.",
+  "scene_references": "Not included yet; extraction in progress.",
+  "cases": [
+    {
+      "case_id": "M006",
+      "movie": "勇敢者游戏2：再战巅峰",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/4zllMWiyItlJ",
+      "action_start_seconds": 154.5,
+      "action_end_seconds": 162.5,
+      "video": "assets/01ad0699f626a0c571f09022.mp4",
+      "video_sha256": "01ad0699f626a0c571f09022592f8fa438bb02476e3a15bbc45e22057b13660e",
+      "subject_count": 4,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/728ca1ae0d4bd67525ab1cbd.jpg",
+          "sha256": "728ca1ae0d4bd67525ab1cbdc805f2de5866751043a968ee39f0826e4261f41f",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/4zllMWiyItlJ",
+          "source_seconds": 114.1,
+          "source_public_id": "4zllMWiyItlJ",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/a896bb392c1d30cb2a2120d6.jpg",
+          "sha256": "a896bb392c1d30cb2a2120d6318d47e70e62d2f6a5f5d8b71bb4c060b3e1598c",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/4zllMWiyItlJ",
+          "source_seconds": 28.0,
+          "source_public_id": "4zllMWiyItlJ",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/c10d6133af2b7ff7bd4324e2.jpg",
+          "sha256": "c10d6133af2b7ff7bd4324e268cc896ea1cded4449b6916557ac717ed1e3fe43",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/4zllMWiyItlJ",
+          "source_seconds": 19.3,
+          "source_public_id": "4zllMWiyItlJ",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 4,
+          "image": "assets/207c130f3a2f396baee488ed.jpg",
+          "sha256": "207c130f3a2f396baee488ed49fa30d3126bf73bb4997b428748f2cc004bc598",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/4zllMWiyItlJ",
+          "source_seconds": 177.9,
+          "source_public_id": "4zllMWiyItlJ",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M010",
+      "movie": "热血警探",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/hot_fuzz/videos/7bzzUerq_egt",
+      "action_start_seconds": 106.5,
+      "action_end_seconds": 114.5,
+      "video": "assets/e85815555f37e794e3f621df.mp4",
+      "video_sha256": "e85815555f37e794e3f621df7ef7ac1efff60c7e0eaf0fec05a8d5b302bfbc85",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/b428f81fc2ac135e4d2b6c2d.jpg",
+          "sha256": "b428f81fc2ac135e4d2b6c2d926bccb8feaae229074527e5756e27a589b667c3",
+          "source_url": "https://www.rottentomatoes.com/m/hot_fuzz/videos/7bzzUerq_egt",
+          "source_seconds": 107.83333333333333,
+          "source_public_id": "7bzzUerq_egt",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/00555e2927e2d6a123984f47.jpg",
+          "sha256": "00555e2927e2d6a123984f479abe0d63b03b229e8649e4f95cb3b759bcfb1649",
+          "source_url": "https://www.rottentomatoes.com/m/hot_fuzz/videos/7bzzUerq_egt",
+          "source_seconds": 111.16666666666667,
+          "source_public_id": "7bzzUerq_egt",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/8b26c57baa7b2112b6649885.jpg",
+          "sha256": "8b26c57baa7b2112b6649885edfc0c40f43b017e572d1debe0f6dbfb7d3c59f3",
+          "source_url": "https://www.rottentomatoes.com/m/hot_fuzz/videos/7bzzUerq_egt",
+          "source_seconds": 111.16666666666667,
+          "source_public_id": "7bzzUerq_egt",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M011",
+      "movie": "热血警探",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/hot_fuzz/videos/7bzzUerq_egt",
+      "action_start_seconds": 124.5,
+      "action_end_seconds": 132.5,
+      "video": "assets/d8ec6e5dd61b306935e2a59c.mp4",
+      "video_sha256": "d8ec6e5dd61b306935e2a59cc3e71873afe34517cc41031b218eca9da020e504",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/44d7b6bacd690df5f231967c.jpg",
+          "sha256": "44d7b6bacd690df5f231967cf67753c08354bb3c28fc89384729a447038448d7",
+          "source_url": "https://www.rottentomatoes.com/m/hot_fuzz/videos/7bzzUerq_egt",
+          "source_seconds": 161.2,
+          "source_public_id": "7bzzUerq_egt",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/0b20c829ccc80f00e559a46e.jpg",
+          "sha256": "0b20c829ccc80f00e559a46e81f8ce3c0fe0894d802d2124e9bcd1dcfdfb52b5",
+          "source_url": "https://www.rottentomatoes.com/m/hot_fuzz/videos/7bzzUerq_egt",
+          "source_seconds": 159.7,
+          "source_public_id": "7bzzUerq_egt",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/919ac6b8004edec1af4b8dc2.jpg",
+          "sha256": "919ac6b8004edec1af4b8dc21ce672b3501a53ead99b182c9bb39ec8bff80fcf",
+          "source_url": "https://www.rottentomatoes.com/m/hot_fuzz/videos/7bzzUerq_egt",
+          "source_seconds": 101.4,
+          "source_public_id": "7bzzUerq_egt",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M015",
+      "movie": "创作平台 · @AIwithWania",
+      "source_kind": "创作平台视频",
+      "source_platform": "X（原 Twitter）",
+      "source_url": "https://x.com/AIwithWania/status/2106971093592691077",
+      "action_start_seconds": 4.5,
+      "action_end_seconds": 12.5,
+      "video": "assets/c4ced8d4c3b3857c74e68bb8.mp4",
+      "video_sha256": "c4ced8d4c3b3857c74e68bb8dfe574c4dc7699ea8592d10c0ee07e958686110c",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/0acb36796d3bf4a3b5afa34b.jpg",
+          "sha256": "0acb36796d3bf4a3b5afa34b5a2b87c9efac65d9ed5e799a6ca099c0ab8c1e3b",
+          "source_url": "https://x.com/AIwithWania/status/2106971093592691077",
+          "source_seconds": 3.0,
+          "source_public_id": "2106971093592691077",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/0618ff81a9fa15cf137f334d.jpg",
+          "sha256": "0618ff81a9fa15cf137f334dac74a15736a4bd8b51414d35368abf04e0962e87",
+          "source_url": "https://x.com/AIwithWania/status/2106971093592691077",
+          "source_seconds": 2.5,
+          "source_public_id": "2106971093592691077",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/db263f35815e4d69fc1147e4.jpg",
+          "sha256": "db263f35815e4d69fc1147e46438ce094424053e32848810ea2dfd7c30010ee7",
+          "source_url": "https://x.com/AIwithWania/status/2106971093592691077",
+          "source_seconds": 19.5,
+          "source_public_id": "2106971093592691077",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M021",
+      "movie": "碟中谍6：全面瓦解",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/mission_impossible_fallout/videos/H8u_8F2JYMqP",
+      "action_start_seconds": 28.5,
+      "action_end_seconds": 36.5,
+      "video": "assets/18496401d0195b16985b6b86.mp4",
+      "video_sha256": "18496401d0195b16985b6b8679fc8ed3570082d8f17defd4134090c660a3034e",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/a373cfcf1af852856a08bf36.jpg",
+          "sha256": "a373cfcf1af852856a08bf364b57ae54d7528885f923e94eb3c511a2625e4cb5",
+          "source_url": "https://www.rottentomatoes.com/m/mission_impossible_fallout/videos/H8u_8F2JYMqP",
+          "source_seconds": 126.1,
+          "source_public_id": "H8u_8F2JYMqP",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/2819dec8b77cb32245379f33.jpg",
+          "sha256": "2819dec8b77cb32245379f331857ac6ef2980c32c0326bce25555692d4f4affd",
+          "source_url": "https://www.rottentomatoes.com/m/mission_impossible_fallout/videos/H8u_8F2JYMqP",
+          "source_seconds": 92.3,
+          "source_public_id": "H8u_8F2JYMqP",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/76720993b2f1204df034dc5c.jpg",
+          "sha256": "76720993b2f1204df034dc5ceba2da15f193e0509d73a5994ec186adf6c2d701",
+          "source_url": "https://www.rottentomatoes.com/m/mission_impossible_fallout/videos/H8u_8F2JYMqP",
+          "source_seconds": 106.1,
+          "source_public_id": "H8u_8F2JYMqP",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M022",
+      "movie": "碟中谍6：全面瓦解",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/mission_impossible_fallout/videos/H8u_8F2JYMqP",
+      "action_start_seconds": 55.5,
+      "action_end_seconds": 63.5,
+      "video": "assets/77c5b4900564902113b1a68b.mp4",
+      "video_sha256": "77c5b4900564902113b1a68b8d7afa046d53d55c504c88d1edf2d5f4df03ee71",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/76720993b2f1204df034dc5c.jpg",
+          "sha256": "76720993b2f1204df034dc5ceba2da15f193e0509d73a5994ec186adf6c2d701",
+          "source_url": "https://www.rottentomatoes.com/m/mission_impossible_fallout/videos/H8u_8F2JYMqP",
+          "source_seconds": 106.1,
+          "source_public_id": "H8u_8F2JYMqP",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/a373cfcf1af852856a08bf36.jpg",
+          "sha256": "a373cfcf1af852856a08bf364b57ae54d7528885f923e94eb3c511a2625e4cb5",
+          "source_url": "https://www.rottentomatoes.com/m/mission_impossible_fallout/videos/H8u_8F2JYMqP",
+          "source_seconds": 126.1,
+          "source_public_id": "H8u_8F2JYMqP",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/2819dec8b77cb32245379f33.jpg",
+          "sha256": "2819dec8b77cb32245379f331857ac6ef2980c32c0326bce25555692d4f4affd",
+          "source_url": "https://www.rottentomatoes.com/m/mission_impossible_fallout/videos/H8u_8F2JYMqP",
+          "source_seconds": 92.3,
+          "source_public_id": "H8u_8F2JYMqP",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M025",
+      "movie": "侏罗纪公园",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/jurassic_park/videos/YXWtlj_vRlor",
+      "action_start_seconds": 13.5,
+      "action_end_seconds": 21.5,
+      "video": "assets/b90ca4c06074cd6fe3c764ed.mp4",
+      "video_sha256": "b90ca4c06074cd6fe3c764edd9f5783ecc106eb2f416cb98d889a14e3e875774",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/e1e5b26f132e3f4e56d5f903.jpg",
+          "sha256": "e1e5b26f132e3f4e56d5f90315061297ea2e923f7f951a5967606285fa378a0c",
+          "source_url": "https://www.rottentomatoes.com/m/jurassic_park/videos/YXWtlj_vRlor",
+          "source_seconds": 26.0,
+          "source_public_id": "YXWtlj_vRlor",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/030a13f5d235e637b1376aee.jpg",
+          "sha256": "030a13f5d235e637b1376aee3793cfee61082aef1594e7f0620318815379ebd5",
+          "source_url": "https://www.rottentomatoes.com/m/jurassic_park/videos/YXWtlj_vRlor",
+          "source_seconds": 40.8,
+          "source_public_id": "YXWtlj_vRlor",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/c17294d7e8477790ff107c0f.jpg",
+          "sha256": "c17294d7e8477790ff107c0f530c44d6c0e750186234a0fa4242289283082084",
+          "source_url": "https://www.rottentomatoes.com/m/jurassic_park/videos/YXWtlj_vRlor",
+          "source_seconds": 30.0,
+          "source_public_id": "YXWtlj_vRlor",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M026",
+      "movie": "侏罗纪公园",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/jurassic_park/videos/YXWtlj_vRlor",
+      "action_start_seconds": 100.5,
+      "action_end_seconds": 108.5,
+      "video": "assets/dae22686882920fc8ff0e39b.mp4",
+      "video_sha256": "dae22686882920fc8ff0e39b29a84d1e81ef21b99aa1c8d6e9b63c1fb3da3b0c",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/030a13f5d235e637b1376aee.jpg",
+          "sha256": "030a13f5d235e637b1376aee3793cfee61082aef1594e7f0620318815379ebd5",
+          "source_url": "https://www.rottentomatoes.com/m/jurassic_park/videos/YXWtlj_vRlor",
+          "source_seconds": 40.8,
+          "source_public_id": "YXWtlj_vRlor",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/e1e5b26f132e3f4e56d5f903.jpg",
+          "sha256": "e1e5b26f132e3f4e56d5f90315061297ea2e923f7f951a5967606285fa378a0c",
+          "source_url": "https://www.rottentomatoes.com/m/jurassic_park/videos/YXWtlj_vRlor",
+          "source_seconds": 26.0,
+          "source_public_id": "YXWtlj_vRlor",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/c17294d7e8477790ff107c0f.jpg",
+          "sha256": "c17294d7e8477790ff107c0f530c44d6c0e750186234a0fa4242289283082084",
+          "source_url": "https://www.rottentomatoes.com/m/jurassic_park/videos/YXWtlj_vRlor",
+          "source_seconds": 30.0,
+          "source_public_id": "YXWtlj_vRlor",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M037",
+      "movie": "勇敢者游戏2：再战巅峰",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/gV0oKknThD6S",
+      "action_start_seconds": 0,
+      "action_end_seconds": 8,
+      "video": "assets/e42019da0529ecad96fcba79.mp4",
+      "video_sha256": "e42019da0529ecad96fcba79de4f38ea5215c2b2237f4bed0e26423f1aa5bab4",
+      "subject_count": 5,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/0c60225ae156d05beeec7dc2.jpg",
+          "sha256": "0c60225ae156d05beeec7dc22b32fc2d5bb9c349a10f907a1fe9f6224366a9a9",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/gV0oKknThD6S",
+          "source_seconds": 3.8,
+          "source_public_id": "gV0oKknThD6S",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/f77fffdb445860bcaf6372f8.jpg",
+          "sha256": "f77fffdb445860bcaf6372f827ab9bb6c76d8d09a964ee2920bbaf7ebb4723fe",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/gV0oKknThD6S",
+          "source_seconds": 74.8,
+          "source_public_id": "gV0oKknThD6S",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/7a32c97616e4e0f78434c5c3.jpg",
+          "sha256": "7a32c97616e4e0f78434c5c342acae0ca494c0ed9ceaf29e7021a65c03f6b48a",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/gV0oKknThD6S",
+          "source_seconds": 177.9,
+          "source_public_id": "gV0oKknThD6S",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 4,
+          "image": "assets/69b5d6b115585b54e816a1b0.jpg",
+          "sha256": "69b5d6b115585b54e816a1b0da2381c87924b900afc005934d5bee1e564b855a",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/gV0oKknThD6S",
+          "source_seconds": 59.1,
+          "source_public_id": "gV0oKknThD6S",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 5,
+          "image": "assets/1d41bb9c34ed7f522b3d4d0b.jpg",
+          "sha256": "1d41bb9c34ed7f522b3d4d0ba11d56c410700bcb32339054a99061d7570d6607",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/gV0oKknThD6S",
+          "source_seconds": 111.4,
+          "source_public_id": "gV0oKknThD6S",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M038",
+      "movie": "勇敢者游戏2：再战巅峰",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/gV0oKknThD6S",
+      "action_start_seconds": 22.5,
+      "action_end_seconds": 30.5,
+      "video": "assets/e185ded5720bcca943348749.mp4",
+      "video_sha256": "e185ded5720bcca9433487497777103abf7f6fee492e18950a502a332030f1a4",
+      "subject_count": 5,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/0c60225ae156d05beeec7dc2.jpg",
+          "sha256": "0c60225ae156d05beeec7dc22b32fc2d5bb9c349a10f907a1fe9f6224366a9a9",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/gV0oKknThD6S",
+          "source_seconds": 3.8,
+          "source_public_id": "gV0oKknThD6S",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/f77fffdb445860bcaf6372f8.jpg",
+          "sha256": "f77fffdb445860bcaf6372f827ab9bb6c76d8d09a964ee2920bbaf7ebb4723fe",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/gV0oKknThD6S",
+          "source_seconds": 74.8,
+          "source_public_id": "gV0oKknThD6S",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/7a32c97616e4e0f78434c5c3.jpg",
+          "sha256": "7a32c97616e4e0f78434c5c342acae0ca494c0ed9ceaf29e7021a65c03f6b48a",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/gV0oKknThD6S",
+          "source_seconds": 177.9,
+          "source_public_id": "gV0oKknThD6S",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 4,
+          "image": "assets/69b5d6b115585b54e816a1b0.jpg",
+          "sha256": "69b5d6b115585b54e816a1b0da2381c87924b900afc005934d5bee1e564b855a",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/gV0oKknThD6S",
+          "source_seconds": 59.1,
+          "source_public_id": "gV0oKknThD6S",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 5,
+          "image": "assets/1d41bb9c34ed7f522b3d4d0b.jpg",
+          "sha256": "1d41bb9c34ed7f522b3d4d0ba11d56c410700bcb32339054a99061d7570d6607",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/gV0oKknThD6S",
+          "source_seconds": 111.4,
+          "source_public_id": "gV0oKknThD6S",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M044",
+      "movie": "菠萝快车",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/pineapple_express/videos/c6dK5c0AQtwL",
+      "action_start_seconds": 97.5,
+      "action_end_seconds": 105.5,
+      "video": "assets/6b581191a21ccb2ee31a9438.mp4",
+      "video_sha256": "6b581191a21ccb2ee31a943874275e941409a28bb952328502e29ad3fae47d03",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/a7603b1d45a2a34722b15031.jpg",
+          "sha256": "a7603b1d45a2a34722b1503168c70f47422ba3ea1a72720284de42476fff6035",
+          "source_url": "https://www.rottentomatoes.com/m/pineapple_express/videos/c6dK5c0AQtwL",
+          "source_seconds": 0.0,
+          "source_public_id": "c6dK5c0AQtwL",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/e5f2713fdc6b188b6efb8f8c.jpg",
+          "sha256": "e5f2713fdc6b188b6efb8f8cd68a363d6bebea7413ae641d71f33777c65f3847",
+          "source_url": "https://www.rottentomatoes.com/m/pineapple_express/videos/c6dK5c0AQtwL",
+          "source_seconds": 2.8,
+          "source_public_id": "c6dK5c0AQtwL",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/4621e2f7857cd6289b0364e7.jpg",
+          "sha256": "4621e2f7857cd6289b0364e7bbd123ee83ba21a42576b0dd8a9e44c8e77bc230",
+          "source_url": "https://www.rottentomatoes.com/m/pineapple_express/videos/c6dK5c0AQtwL",
+          "source_seconds": 114.1,
+          "source_public_id": "c6dK5c0AQtwL",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M053",
+      "movie": "惊天魔盗团",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/now_you_see_me/videos/n8qBW9GHgDl0",
+      "action_start_seconds": 16.5,
+      "action_end_seconds": 24.5,
+      "video": "assets/544a193b0678fc77c1e96f59.mp4",
+      "video_sha256": "544a193b0678fc77c1e96f59397560f61791db4d7c7c377ad14bbf02225e6120",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/7a9e79d59e0a12f5509bd975.jpg",
+          "sha256": "7a9e79d59e0a12f5509bd9753cdfa90ad1c88a198f7623cf356ee6ecd02cafbf",
+          "source_url": "https://www.rottentomatoes.com/m/now_you_see_me/videos/n8qBW9GHgDl0",
+          "source_seconds": 19.0,
+          "source_public_id": "n8qBW9GHgDl0",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/afac07b8851b888cef845e22.jpg",
+          "sha256": "afac07b8851b888cef845e2294bf38ba6aad55175814d148884bb7c204b2c9ea",
+          "source_url": "https://www.rottentomatoes.com/m/now_you_see_me/videos/n8qBW9GHgDl0",
+          "source_seconds": 21.0,
+          "source_public_id": "n8qBW9GHgDl0",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/770fa1f14a96712a234ca0af.jpg",
+          "sha256": "770fa1f14a96712a234ca0af37a7a9e0401882cded1af724cd88eae79ea6630f",
+          "source_url": "https://www.rottentomatoes.com/m/now_you_see_me/videos/n8qBW9GHgDl0",
+          "source_seconds": 21.0,
+          "source_public_id": "n8qBW9GHgDl0",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M057",
+      "movie": "龙虎少年队2",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/22_jump_street/videos/pmclcU9HcJKD",
+      "action_start_seconds": 49.5,
+      "action_end_seconds": 57.5,
+      "video": "assets/09efc643fc30494442119c6b.mp4",
+      "video_sha256": "09efc643fc30494442119c6b59d14b8489ab8fa1bd215de4b6a68dacf768fddc",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/10a471286dfb404882f78f18.jpg",
+          "sha256": "10a471286dfb404882f78f18475586286133a20b1a18237f41b5166b857a40a4",
+          "source_url": "https://www.rottentomatoes.com/m/22_jump_street/videos/pmclcU9HcJKD",
+          "source_seconds": 49.5,
+          "source_public_id": "pmclcU9HcJKD",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/c423d5129b5a85bd870d692a.jpg",
+          "sha256": "c423d5129b5a85bd870d692a0fcdf0cc389007dd5734e3a38764ba5acf69cbbd",
+          "source_url": "https://www.rottentomatoes.com/m/22_jump_street/videos/pmclcU9HcJKD",
+          "source_seconds": 10.8,
+          "source_public_id": "pmclcU9HcJKD",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/3e9c68ca1c2724e1954cc222.jpg",
+          "sha256": "3e9c68ca1c2724e1954cc22261de4a9a1e059b2f8333e7cc6a3612751f4b5f68",
+          "source_url": "https://www.rottentomatoes.com/m/22_jump_street/videos/pmclcU9HcJKD",
+          "source_seconds": 56.1,
+          "source_public_id": "pmclcU9HcJKD",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M060",
+      "movie": "勇敢者游戏2：再战巅峰",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/qIdTCeQzWfLU",
+      "action_start_seconds": 166.5,
+      "action_end_seconds": 174.5,
+      "video": "assets/22c10c618d29d4ec251861b1.mp4",
+      "video_sha256": "22c10c618d29d4ec251861b11ce4ea838d4b043f0e52e7308714071f98d56b4e",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/0a48b3cd1004ead4052dea08.jpg",
+          "sha256": "0a48b3cd1004ead4052dea0886ad5f64a7259db0cb488c1b9bfa7dc14cdcc78c",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/qIdTCeQzWfLU",
+          "source_seconds": 169.5,
+          "source_public_id": "qIdTCeQzWfLU",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/485c1b49d0c69cda8465e7e4.jpg",
+          "sha256": "485c1b49d0c69cda8465e7e4c9e81b3436624211af091af124f75e8902d19f04",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/qIdTCeQzWfLU",
+          "source_seconds": 26.5,
+          "source_public_id": "qIdTCeQzWfLU",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/04800b841e652370719979f5.jpg",
+          "sha256": "04800b841e652370719979f521cb9fa2b8f60bb7b8e57da1048dcb2832de48f0",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/qIdTCeQzWfLU",
+          "source_seconds": 169.9,
+          "source_public_id": "qIdTCeQzWfLU",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M061",
+      "movie": "热血警探",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/hot_fuzz/videos/qVQ5ZI19t5Za",
+      "action_start_seconds": 52.5,
+      "action_end_seconds": 60.5,
+      "video": "assets/f596886a2b6263b6fb621f47.mp4",
+      "video_sha256": "f596886a2b6263b6fb621f4728925c2839a68fa5494a0e047b8422728851828c",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/05ed812ad72ed809cccd2a48.jpg",
+          "sha256": "05ed812ad72ed809cccd2a48db346d21f032c317e84b6ce1ef15dc58e88d7d93",
+          "source_url": "https://www.rottentomatoes.com/m/hot_fuzz/videos/qVQ5ZI19t5Za",
+          "source_seconds": 55.5,
+          "source_public_id": "qVQ5ZI19t5Za",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/7ed218bb59234b605126d150.jpg",
+          "sha256": "7ed218bb59234b605126d1503592564e5e7abd309fb7b769474370a7f33f5f30",
+          "source_url": "https://www.rottentomatoes.com/m/hot_fuzz/videos/qVQ5ZI19t5Za",
+          "source_seconds": 72.1,
+          "source_public_id": "qVQ5ZI19t5Za",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/48cf31455910fe2a8c6c7786.jpg",
+          "sha256": "48cf31455910fe2a8c6c7786e397fb9a8b6eea0b5e1bf8bb53aaa2d2f2944e25",
+          "source_url": "https://www.rottentomatoes.com/m/hot_fuzz/videos/qVQ5ZI19t5Za",
+          "source_seconds": 55.5,
+          "source_public_id": "qVQ5ZI19t5Za",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M062",
+      "movie": "早餐俱乐部",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/breakfast_club/videos/rH9844zpj_zt",
+      "action_start_seconds": 82.5,
+      "action_end_seconds": 90.5,
+      "video": "assets/62cd9f6d0f5f46b92c31f573.mp4",
+      "video_sha256": "62cd9f6d0f5f46b92c31f57390539042a2885c6142574d48d84e94e27acb7dc7",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/736f6d63fd8bec56be3fefd2.jpg",
+          "sha256": "736f6d63fd8bec56be3fefd2f34c7e8c1cde0a188b96d9702f9bf3c15216aa5c",
+          "source_url": "https://www.rottentomatoes.com/m/breakfast_club/videos/rH9844zpj_zt",
+          "source_seconds": 125.1,
+          "source_public_id": "rH9844zpj_zt",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/3c11e99032beadabacd1af38.jpg",
+          "sha256": "3c11e99032beadabacd1af38977e3a7cde0e4e6431ea4f8e4a43d6bd964e0a69",
+          "source_url": "https://www.rottentomatoes.com/m/breakfast_club/videos/rH9844zpj_zt",
+          "source_seconds": 65.6,
+          "source_public_id": "rH9844zpj_zt",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/18858fd87eef4abd071d65fe.jpg",
+          "sha256": "18858fd87eef4abd071d65fe7058e40a31d77818e5f6651afd445b5e7c42910b",
+          "source_url": "https://www.rottentomatoes.com/m/breakfast_club/videos/rH9844zpj_zt",
+          "source_seconds": 42.3,
+          "source_public_id": "rH9844zpj_zt",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M063",
+      "movie": "早餐俱乐部",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/breakfast_club/videos/rH9844zpj_zt",
+      "action_start_seconds": 100.5,
+      "action_end_seconds": 108.5,
+      "video": "assets/ead5fa259993227a37c8fdb4.mp4",
+      "video_sha256": "ead5fa259993227a37c8fdb44ad68270be14822fd4c4131ec39d79378084b992",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/736f6d63fd8bec56be3fefd2.jpg",
+          "sha256": "736f6d63fd8bec56be3fefd2f34c7e8c1cde0a188b96d9702f9bf3c15216aa5c",
+          "source_url": "https://www.rottentomatoes.com/m/breakfast_club/videos/rH9844zpj_zt",
+          "source_seconds": 125.1,
+          "source_public_id": "rH9844zpj_zt",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/3c11e99032beadabacd1af38.jpg",
+          "sha256": "3c11e99032beadabacd1af38977e3a7cde0e4e6431ea4f8e4a43d6bd964e0a69",
+          "source_url": "https://www.rottentomatoes.com/m/breakfast_club/videos/rH9844zpj_zt",
+          "source_seconds": 65.6,
+          "source_public_id": "rH9844zpj_zt",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/18858fd87eef4abd071d65fe.jpg",
+          "sha256": "18858fd87eef4abd071d65fe7058e40a31d77818e5f6651afd445b5e7c42910b",
+          "source_url": "https://www.rottentomatoes.com/m/breakfast_club/videos/rH9844zpj_zt",
+          "source_seconds": 42.3,
+          "source_public_id": "rH9844zpj_zt",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M064",
+      "movie": "勇敢者游戏2：再战巅峰",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/rN4On3s_W4eh",
+      "action_start_seconds": 106.5,
+      "action_end_seconds": 114.5,
+      "video": "assets/a6637c2ea03972419998222b.mp4",
+      "video_sha256": "a6637c2ea03972419998222baee0841862893435dabef87f2a5255d2762b2e89",
+      "subject_count": 4,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/5d58721504f858441c85f655.jpg",
+          "sha256": "5d58721504f858441c85f655ef55b76c3a8bd29aec09d8a6eb8015cc4a48bd55",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/rN4On3s_W4eh",
+          "source_seconds": 124.1,
+          "source_public_id": "rN4On3s_W4eh",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/aa550b67ea10f9965f5373f0.jpg",
+          "sha256": "aa550b67ea10f9965f5373f032a8285d640693fbe2143c69afdbc49643b148d2",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/rN4On3s_W4eh",
+          "source_seconds": 140.9,
+          "source_public_id": "rN4On3s_W4eh",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/dc6f59a6d68b523bf3456b25.jpg",
+          "sha256": "dc6f59a6d68b523bf3456b255842b47e5a06b129bb6c6d7c4bd2438af288515d",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/rN4On3s_W4eh",
+          "source_seconds": 119.6,
+          "source_public_id": "rN4On3s_W4eh",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 4,
+          "image": "assets/93440835e0e4f680d0143678.jpg",
+          "sha256": "93440835e0e4f680d0143678410429dc6d51849700a5c345748b608f96678b9b",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/rN4On3s_W4eh",
+          "source_seconds": 139.6,
+          "source_public_id": "rN4On3s_W4eh",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M065",
+      "movie": "勇敢者游戏2：再战巅峰",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/rN4On3s_W4eh",
+      "action_start_seconds": 124.5,
+      "action_end_seconds": 132.5,
+      "video": "assets/b1b65e8c8cc2fdd7139aa0cb.mp4",
+      "video_sha256": "b1b65e8c8cc2fdd7139aa0cbd3bf2f296056f1601b1232e03abcf355faf06663",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/5d58721504f858441c85f655.jpg",
+          "sha256": "5d58721504f858441c85f655ef55b76c3a8bd29aec09d8a6eb8015cc4a48bd55",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/rN4On3s_W4eh",
+          "source_seconds": 124.1,
+          "source_public_id": "rN4On3s_W4eh",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/c54e3e3b7888436dfbb05412.jpg",
+          "sha256": "c54e3e3b7888436dfbb054123787cef8ba0e4e41f304cd545228aabcc48876b2",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/rN4On3s_W4eh",
+          "source_seconds": 69.8,
+          "source_public_id": "rN4On3s_W4eh",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/aa550b67ea10f9965f5373f0.jpg",
+          "sha256": "aa550b67ea10f9965f5373f032a8285d640693fbe2143c69afdbc49643b148d2",
+          "source_url": "https://www.rottentomatoes.com/m/jumanji_the_next_level/videos/rN4On3s_W4eh",
+          "source_seconds": 140.9,
+          "source_public_id": "rN4On3s_W4eh",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M075",
+      "movie": "菠萝快车",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/pineapple_express/videos/wd8ff4w2eLhF",
+      "action_start_seconds": 172.5,
+      "action_end_seconds": 180.5,
+      "video": "assets/29f797786cc820c2a1db252d.mp4",
+      "video_sha256": "29f797786cc820c2a1db252d3492cab3d92e3ffd4f9d2a08fc790d5abaebc730",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/3f77d2cf0bf6c389c6135b81.jpg",
+          "sha256": "3f77d2cf0bf6c389c6135b8179ac5e146717cf09859a409141dce7051c356a06",
+          "source_url": "https://www.rottentomatoes.com/m/pineapple_express/videos/wd8ff4w2eLhF",
+          "source_seconds": 180.9,
+          "source_public_id": "wd8ff4w2eLhF",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/0f1097c71f0bce18fe634d12.jpg",
+          "sha256": "0f1097c71f0bce18fe634d12d23da56c8a0304df5be9c732889d1baf66823846",
+          "source_url": "https://www.rottentomatoes.com/m/pineapple_express/videos/wd8ff4w2eLhF",
+          "source_seconds": 165.7,
+          "source_public_id": "wd8ff4w2eLhF",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/706f0ab8a0878f008ea5347f.jpg",
+          "sha256": "706f0ab8a0878f008ea5347f90439762f2b1d5606f935afa678efdb9808cc5d2",
+          "source_url": "https://www.rottentomatoes.com/m/pineapple_express/videos/wd8ff4w2eLhF",
+          "source_seconds": 10.0,
+          "source_public_id": "wd8ff4w2eLhF",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M080",
+      "movie": "侏罗纪公园",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/jurassic_park/videos/AHEka4jMUdS5",
+      "action_start_seconds": 166.5,
+      "action_end_seconds": 174.5,
+      "video": "assets/4ad60c0ff2ea72d4ac27ebdd.mp4",
+      "video_sha256": "4ad60c0ff2ea72d4ac27ebddc56aa28b95afae52c5a44615fed22b83b7a0382a",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/6f806eb2f3f487d1f7197ab4.jpg",
+          "sha256": "6f806eb2f3f487d1f7197ab4451b24b2c4d87eef67027c6fd310e0673e13f41d",
+          "source_url": "https://www.rottentomatoes.com/m/jurassic_park/videos/AHEka4jMUdS5",
+          "source_seconds": 32.5,
+          "source_public_id": "AHEka4jMUdS5",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/355b140e48398266d2f876d3.jpg",
+          "sha256": "355b140e48398266d2f876d3b4d370102c210a6a7e5b8fb03ef03efbdc7b5d3e",
+          "source_url": "https://www.rottentomatoes.com/m/jurassic_park/videos/AHEka4jMUdS5",
+          "source_seconds": 141.9,
+          "source_public_id": "AHEka4jMUdS5",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/1321418e8318c538fee38d05.jpg",
+          "sha256": "1321418e8318c538fee38d05bb983f8b276ff522f531373809b8fe7e4dbc0d36",
+          "source_url": "https://www.rottentomatoes.com/m/jurassic_park/videos/AHEka4jMUdS5",
+          "source_seconds": 177.9,
+          "source_public_id": "AHEka4jMUdS5",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M086",
+      "movie": "霹雳娇娃2",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/charlies_angels_full_throttle/videos/LuNkCZqTAwhz",
+      "action_start_seconds": 148.13941666666665,
+      "action_end_seconds": 156.13941666666665,
+      "video": "assets/b5cb869f97319245beebc36e.mp4",
+      "video_sha256": "b5cb869f97319245beebc36e624bb223d5defe1e41cd33bea2b458a9fc0efd03",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/5f44189b7363fcf8c1c17040.jpg",
+          "sha256": "5f44189b7363fcf8c1c17040f62059e3386b2f1bd9a03c9eff8317bfcf25422c",
+          "source_url": "https://www.rottentomatoes.com/m/charlies_angels_full_throttle/videos/LuNkCZqTAwhz",
+          "source_seconds": 146.4,
+          "source_public_id": "LuNkCZqTAwhz",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/94ce21f03cef1a4fc6e48d29.jpg",
+          "sha256": "94ce21f03cef1a4fc6e48d29ddfbc081b53ffa687c61be96e1c9896e9cc059b0",
+          "source_url": "https://www.rottentomatoes.com/m/charlies_angels_full_throttle/videos/LuNkCZqTAwhz",
+          "source_seconds": 148.1,
+          "source_public_id": "LuNkCZqTAwhz",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/af98d15e6c3ee057798268f9.jpg",
+          "sha256": "af98d15e6c3ee057798268f967bb18a79ede263c6fc4da7928dadacb9ab24eac",
+          "source_url": "https://www.rottentomatoes.com/m/charlies_angels_full_throttle/videos/LuNkCZqTAwhz",
+          "source_seconds": 13.8,
+          "source_public_id": "LuNkCZqTAwhz",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M087",
+      "movie": "极盗车神",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/baby_driver/videos/MhDCCazLZEgh",
+      "action_start_seconds": 70.5,
+      "action_end_seconds": 78.5,
+      "video": "assets/2a2d88e25e3f217f071ba49e.mp4",
+      "video_sha256": "2a2d88e25e3f217f071ba49ed8397b6755978a1f469a5870438da0608a190629",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/dc2beaf71b76b2ecc0583415.jpg",
+          "sha256": "dc2beaf71b76b2ecc0583415f716fd970095fd6f1194307ccffce301d880dc00",
+          "source_url": "https://www.rottentomatoes.com/m/baby_driver/videos/MhDCCazLZEgh",
+          "source_seconds": 106.1,
+          "source_public_id": "MhDCCazLZEgh",
+          "source_relation": "same_source_video_outside_action",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/508783e272cbe91b05aeb1a4.jpg",
+          "sha256": "508783e272cbe91b05aeb1a4a16a2817cb0d31dfac17b0a6489d4288780a61f6",
+          "source_url": "https://www.rottentomatoes.com/m/baby_driver/videos/MhDCCazLZEgh",
+          "source_seconds": 111.1,
+          "source_public_id": "MhDCCazLZEgh",
+          "source_relation": "same_source_video_outside_action",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/61ea18b4b561b5887bce3557.jpg",
+          "sha256": "61ea18b4b561b5887bce3557f8a5e27cdd80d033d478d0e2f230e5b1a64012a9",
+          "source_url": "https://www.rottentomatoes.com/m/baby_driver/videos/MhDCCazLZEgh",
+          "source_seconds": 15.26525,
+          "source_public_id": "MhDCCazLZEgh",
+          "source_relation": "same_source_video_outside_action",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M088",
+      "movie": "龙虎少年队2",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/22_jump_street/videos/OOz_u_MaV4Jw",
+      "action_start_seconds": 37.5,
+      "action_end_seconds": 45.5,
+      "video": "assets/7bfacd9f171e99c386117866.mp4",
+      "video_sha256": "7bfacd9f171e99c38611786670b975857ad7abede258bc02426602554b06aacf",
+      "subject_count": 3,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/79f510797ecca5bab08f7d1a.jpg",
+          "sha256": "79f510797ecca5bab08f7d1a04a4db50ff1eac091b88d12eab4554ef7a77085f",
+          "source_url": "https://www.rottentomatoes.com/m/22_jump_street/videos/OOz_u_MaV4Jw",
+          "source_seconds": 95.8,
+          "source_public_id": "OOz_u_MaV4Jw",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/5bcee06f3ff980b2f445a0ce.jpg",
+          "sha256": "5bcee06f3ff980b2f445a0cef27ec49f03f3836c58e6821acbd8510a77c25870",
+          "source_url": "https://www.rottentomatoes.com/m/22_jump_street/videos/OOz_u_MaV4Jw",
+          "source_seconds": 102.1,
+          "source_public_id": "OOz_u_MaV4Jw",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/10fd2f8552eef985ba1a9f4b.jpg",
+          "sha256": "10fd2f8552eef985ba1a9f4b2ad19f0cc4698664287a686b76887103ebf62de9",
+          "source_url": "https://www.rottentomatoes.com/m/22_jump_street/videos/OOz_u_MaV4Jw",
+          "source_seconds": 140.6,
+          "source_public_id": "OOz_u_MaV4Jw",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    },
+    {
+      "case_id": "M098",
+      "movie": "谋杀绿脚趾",
+      "source_kind": "电影片段",
+      "source_platform": "Rotten Tomatoes / Movieclips",
+      "source_url": "https://www.rottentomatoes.com/m/the_big_lebowski/videos/lTcSadb7cStH",
+      "action_start_seconds": 121.5,
+      "action_end_seconds": 129.5,
+      "video": "assets/c3be88bf560047861ee053e9.mp4",
+      "video_sha256": "c3be88bf560047861ee053e91b037a75d6cd09788eb1456b87c3aee30affbcd5",
+      "subject_count": 4,
+      "references": [
+        {
+          "index": 1,
+          "image": "assets/ab56740ad47630acda1933d0.jpg",
+          "sha256": "ab56740ad47630acda1933d07db6440b508b32623ee030cebc6b6c7d4796f451",
+          "source_url": "https://www.rottentomatoes.com/m/the_big_lebowski/videos/lTcSadb7cStH",
+          "source_seconds": 119.9,
+          "source_public_id": "lTcSadb7cStH",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 2,
+          "image": "assets/8483d70c1dcabb2698fd1e14.jpg",
+          "sha256": "8483d70c1dcabb2698fd1e143dbae572a5ea96d17599bde9bfc2aded26183686",
+          "source_url": "https://www.rottentomatoes.com/m/the_big_lebowski/videos/lTcSadb7cStH",
+          "source_seconds": 132.6,
+          "source_public_id": "lTcSadb7cStH",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 3,
+          "image": "assets/1bced2d332cfbd39295e7b14.jpg",
+          "sha256": "1bced2d332cfbd39295e7b1412911f6ebada35533f98e443cf929bfcb29286c4",
+          "source_url": "https://www.rottentomatoes.com/m/the_big_lebowski/videos/lTcSadb7cStH",
+          "source_seconds": 4.5,
+          "source_public_id": "lTcSadb7cStH",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        },
+        {
+          "index": 4,
+          "image": "assets/fffee113f03de36f4435b778.jpg",
+          "sha256": "fffee113f03de36f4435b77831c864ad8085b45d6666e00a703e1e6c2e0c629e",
+          "source_url": "https://www.rottentomatoes.com/m/the_big_lebowski/videos/lTcSadb7cStH",
+          "source_seconds": 116.1,
+          "source_public_id": "lTcSadb7cStH",
+          "source_relation": "same_source_video; source_seconds may be outside action interval",
+          "quality_grade": "A",
+          "identity_reviewed": true
+        }
+      ]
+    }
+  ]
+}
